@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeepAPI Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_unavailable">Network is unavailable.</string>
+</resources>
