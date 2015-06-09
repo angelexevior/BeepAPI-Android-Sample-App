@@ -7,6 +7,12 @@ Uses OkHttp Library from square.
 compile 'com.squareup.okhttp:okhttp:2.1.0'
 ```
 
+Also you will need certain permissions in the android manifest
+```
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```
+
 #Additional Information and Developer notes
 
 Uses MVC Pattern.
